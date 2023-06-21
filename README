@@ -1,0 +1,6 @@
+How to use:
+
+- Install xampp
+- put repo files (as 'news' folder) in htdocs folder in xampp directory
+- import news.sql to phpmyadmin
+- run apache server with xampp control panel
